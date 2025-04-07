@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.log
+*.bak
+BootForge_Logs.txt
+BootForge_Feedback.txt
+dist/
+build/
+*.spec
